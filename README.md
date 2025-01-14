@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Front-End Developer GIF" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Front-End Developer GIF" width="300" height="600" />
 </div>
 <h1 align="center">Hi 👋, I'm Adi Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
