@@ -1,4 +1,4 @@
-[![MasterHead](https://in.pinterest.com/pin/204702745549241158/)]
+[![MasterHead](https://i.pinimg.com/originals/2a/0e/3d/2a0e3d97b5ed6d605b0efb6d4a6b7b23.jpg)]
 <h1 align="center">Hi 👋, I'm Adi Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFyejk3NDB2YXZ0M202ejJ5ajY2eDgzN2RlYXZ0ZW56bWFleGU0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
