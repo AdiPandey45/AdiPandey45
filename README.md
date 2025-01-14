@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://raw.githubusercontent.com/AdiPandey45/your-repo-name/main/banner.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Adi Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFyejk3NDB2YXZ0M202ejJ5ajY2eDgzN2RlYXZ0ZW56bWFleGU0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
