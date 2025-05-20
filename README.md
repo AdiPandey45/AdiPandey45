@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **adipandey1405@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZRv1ljGfzHx7j7tM88wsVPKZqgS1DCqI/view?usp=sharing](https://drive.google.com/file/d/1ZRv1ljGfzHx7j7tM88wsVPKZqgS1DCqI/view?usp=sharing)](https://drive.google.com/file/d/1aZnj9dkJDHE0i5nkTspapr3M6UPc92pU/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1aZnj9dkJDHE0i5nkTspapr3M6UPc92pU/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny 😄**
 
